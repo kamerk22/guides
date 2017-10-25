@@ -18,4 +18,5 @@ Docker uses containers to build, ship and run your application anywhere. Contain
 * [Docker Documents](https://docs.docker.com/)
 * [Docker Website](https://www.docker.com/)
 * Watch the video for breif introduction
+
 [![Inroduction To Docker](https://img.youtube.com/vi/Q5POuMHxW-0/0.jpg)](https://www.youtube.com/watch?v=Q5POuMHxW-0)
